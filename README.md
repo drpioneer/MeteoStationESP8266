@@ -13,6 +13,6 @@
 
 <img src="https://github.com/drpioneer/MeteoStationESP8266/blob/main/meteo_station.jpg">
 
-Показания датчиков и статистику в графическом виде можно смотреть по ссылке на страницу метеостанции: https://narodmon.ru/D4817
+Показания датчиков и статистику в графическом виде можно наблюдать по ссылке на страницу метеостанции: https://narodmon.ru/D4817
 
 Корпусные детали для метеостанции: https://r2akt.ru/%d0%bf%d1%80%d0%be%d0%b5%d0%ba%d1%82%d1%8b/%d0%bc%d0%b5%d1%82%d0%b5%d0%be%d0%be%d1%81%d1%82%d0%b0%d0%bd%d1%86%d0%b8%d1%8f
