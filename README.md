@@ -1,5 +1,5 @@
 # MeteoStationESP8266
-Метеостанция на базе отладочной платы Wemos/Lolin D1 mini на основе ESP8266. В коде использованы идеи различных авторов, найденные на просторах интернета. Код написан в среде Arduino IDE v.1.8.13. Приглянувшийся вариант реализации метеостанции подсмотрен здесь: https://github.com/ghmartin77/ESP8266_BME280
+Метеостанция на базе ESP8266 в виде отладочной платы Wemos/Lolin D1 mini. Приглянувшийся вариант реализации метеостанции подсмотрен здесь: https://github.com/ghmartin77/ESP8266_BME280 В коде программы использованы идеи различных авторов, найденные на просторах интернета. Код написан в среде Arduino IDE v.1.8.13. Актуальная версия кода прошла ревью при помощи ИИ.
 
 Актуальную электрическую схему выложу позже. Для понимания сути пока выкладываю эту схему:  
 <img src="https://github.com/drpioneer/MeteoStationESP8266/blob/main/shema.png">
@@ -11,8 +11,8 @@
 
 <img src="https://github.com/drpioneer/MeteoStationESP8266/blob/main/meteo_board.jpg">
 
-<img src="https://github.com/drpioneer/MeteoStationESP8266/blob/main/meteo_station.jpg">
-
 Показания датчиков и статистику в графическом виде можно наблюдать по ссылке на страницу метеостанции: https://narodmon.ru/D4817
+
+<img src="https://github.com/drpioneer/MeteoStationESP8266/blob/main/meteo_station.jpg">
 
 Корпусные детали для метеостанции: https://r2akt.ru/%d0%bf%d1%80%d0%be%d0%b5%d0%ba%d1%82%d1%8b/%d0%bc%d0%b5%d1%82%d0%b5%d0%be%d0%be%d1%81%d1%82%d0%b0%d0%bd%d1%86%d0%b8%d1%8f
