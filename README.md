@@ -10,7 +10,7 @@
 
 <img src="https://github.com/drpioneer/MeteoStationESP8266/blob/main/meteo_board.jpg">
 
-Показания датчиков и статистику в графическом виде можно наблюдать по ссылке на страницу метеостанции: https://narodmon.ru/D4817
+Показания датчиков и статистику в графическом виде можно наблюдать по ссылке на страницу метеостанции: https://narodmon.ru/D12701#
 
 <img src="https://github.com/drpioneer/MeteoStationESP8266/blob/main/meteo_station.jpg">
 
